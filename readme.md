@@ -1,1 +1,1 @@
-es un archovo para ser revertido. Ahora si todo bien hecho1
+Es un archivo para ser revertido. Ahora si todo bien hecho.

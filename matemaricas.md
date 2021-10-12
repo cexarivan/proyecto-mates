@@ -1,2 +1,2 @@
-hola,esto es fichero de lectura para nuestro repositorio.1
+Hola,esto es fichero de lectura para nuestro repositorio.
 Esto es una modificacion
