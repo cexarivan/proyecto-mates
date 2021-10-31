@@ -1,1 +1,1 @@
-Es un archivo para ser revertido. Ahora si todo bien hecho.
+Es un archivo para ser revertido. El cliente puede utilizar nuestro proyexto mate.
