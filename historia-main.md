@@ -1,3 +1,6 @@
 # Historia de la rama main
 
 Hace meses empeze este curso y terminare pronto...
+
+# Inicios de la rama 
+La rama se llamo master antes...
