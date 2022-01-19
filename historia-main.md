@@ -1,6 +1,6 @@
 # Historia de la rama main
 
-Hace meses empeze este curso y terminare pronto...
+Comenze desde agosto y estoy enero 2022.
 
 # Inicios de la rama 
 La rama se llamo master antes...
